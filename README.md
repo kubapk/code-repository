@@ -6,7 +6,7 @@ Code to find best mass, width and lifetime of the Z<sub>0</sub> boson, by minsim
 [Open Code](https://github.com/kubapk/cv-code/tree/faeceee15c0906a1f682045e2bcd997adf8f921f/Z_0%20boson)
 
 ### Dice game
-Code which allows two players to roll dice. Writes data to file, storing account information so users can log in and compare their scores on a leaderboard. Note that this code was written as part of my GCSE and so there are errors. I will update the code soon to fix this. \
+Code which allows two players to roll dice. Writes data to file, storing account information so users can log in and compare their scores on a leaderboard. Please note that this was written very early in my coding career, and I have become of errors which I aim to fix soon. \
 [Open Code](https://github.com/kubapk/cv-code/tree/5b89ec6b7a49f4af7f8980e31731596f98ef108c/Dice_game)
 
 ### More code to be added soon
