@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ________________TITLE________________
-PHYS20161 - Assignment 2 - Z Boson
+Assignment 2 - Z Boson
 _____________________________________
 This Python script combines and filters data of cross section for different
 centre of mass energies. It then finds a best fit of the data to the function
@@ -12,7 +12,7 @@ using a contour plot of chi square.
 Created on Tue 21 Nov 2023
 Last updated on Tue 12 Dec 2023
 
-@author: t21313jk
+@author: Kuba
 """
 
 import sys
