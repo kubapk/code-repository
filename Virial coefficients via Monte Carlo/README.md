@@ -1,5 +1,5 @@
-**Description of versions (branches)** /
-_These notes refer to the original repository and only the final version of the code is avaialble here, but these notes have been kept to showcase the progress of work in this project._
+**Description of versions (branches)** 
+\\ _These notes refer to the original repository and only the final version of the code is avaialble here, but these notes have been kept to showcase the progress of work in this project._
 
 Version 2: Before professor's notes in his email on 18 April 2025.
 
